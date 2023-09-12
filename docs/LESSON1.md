@@ -11,6 +11,21 @@ Zainstaluj następujące rozszeżenia (Ctrl+Shift+X):
 
 - Project Manager
 - Markdown All in One
+- Code Spell Checker
+- Better Comments
+- DotENV
+- Error Lens
+- Laravel Extra Intellisense
+- Laravel Ide Helper
+- Laravel Snippets
+- Log File Highlighter
+- PHP Create Class
+- PHP Intelephense 
+- PHP Namespace Resolver
+- Polish - Code Spell Checker
+- Prettier Formatter for Visual Studio Code
+- SQL Formatter
+- Todo Tree
 
 ## Serwery
 
@@ -61,3 +76,48 @@ Włącz zip extension dla PHP
 https://www.youtube.com/watch?v=mrwQoPE7AdM
 ```
 
+Przejdź w konsoli do katalogu
+
+```
+C:\xampp\htdpcs
+```
+
+i wykonaj polecenie
+
+```
+composer create-project laravel/laravel my-app
+```
+
+po zainstalowaniu przejdź do katalogu
+
+```
+cd my-app
+```
+
+i wykonaj polecenie
+
+```
+php artisan server
+```
+Uruchom w przeglądarce poniższy adres
+
+```
+http://127.0.0.1:8000/
+```
+
+Utwórz swoje pierwsze repozytorium i wyślij zmiany. Jako nazwę repozytorium podaj 
+
+```
+my-app
+```
+Krótki tutorial Git I Github
+```
+https://www.youtube.com/watch?v=0X-_Boa0qx4
+```
+
+Przydatne polecenia:
+
+```
+git tag v0.1.0
+git push origin v0.1.0
+```
