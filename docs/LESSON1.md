@@ -118,6 +118,9 @@ https://www.youtube.com/watch?v=0X-_Boa0qx4
 Przydatne polecenia:
 
 ```
+git branch
+git merge feature/lesson1
+git merge develop
 git tag v0.1.0
 git push origin v0.1.0
 ```
