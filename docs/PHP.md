@@ -134,7 +134,7 @@ foreach ($zamowienia as $zamowienie) {
 
 - Oblicz łączną ilość wszystkich produktów zamówionych we wszystkich zamówieniach.
 
-- Sprawdź, czy któremuś z klientów zamówienia mieszka w Warszawie, i wyświetl informację na ten temat.
+- Sprawdź, czy któremuś z klientów zamówienia mieszka w Warszawie, i wyświetl informację na ten temat. (strstr())
 
 - Znajdź i wyświetl informacje o zamówieniu z najwcześniejszą datą zamówienia.
 
